@@ -1,0 +1,11 @@
+{
+  "name": "hunstratos",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter hun-fdm dev",
+    "build": "pnpm --filter hun-fdm build",
+    "lint": "pnpm --filter hun-fdm lint"
+  },
+  "license": "ISC"
+}
