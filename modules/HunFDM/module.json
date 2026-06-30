@@ -1,0 +1,12 @@
+{
+    "name": "HunFDM",
+    "alias": "hunfdm",
+    "description": "Flight Data Monitoring module for HUN VA",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\HunFDM\\Providers\\HunFDMServiceProvider"
+    ],
+    "aliases": {},
+    "files": []
+}
